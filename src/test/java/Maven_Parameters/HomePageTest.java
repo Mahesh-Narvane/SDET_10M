@@ -9,5 +9,6 @@ public class HomePageTest {
 	public void HomePageDisplay() {
 		
 		System.out.println("home page displays");
+		System.out.println("Hello");
 	}
 }
