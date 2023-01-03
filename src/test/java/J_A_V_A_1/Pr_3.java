@@ -41,9 +41,9 @@ public class Pr_3 {
         	  }
       
 		 }
-		 String str = new String();
-		 String string = str.valueOf(str); 
-		 System.out.println(string);
+		for (int i = 0; i < ch.length; i++) {
+			System.out.println(ch[i]);
+		}
 		  
           
 		 

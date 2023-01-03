@@ -24,7 +24,7 @@ public class Amezon {
 		
 		Thread.sleep(1000);
 		driver.close();
-		
+	
 		System.out.println("Executed Successfully");
 		 
 	}
