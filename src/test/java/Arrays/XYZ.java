@@ -662,17 +662,16 @@ public class XYZ {
 
 		String s= "shubham";
 		char [] ch=s.toCharArray();
-
-		char temp=ch[0];
-		ch[0]=ch[4];
-		ch[4]=temp;
-
+	
+			char temp=ch[0];
+			ch[0]=ch[4];
+			ch[4]=temp;
+					
 		for (int i = 0; i < ch.length; i++)
 		{
 			System.out.print(ch[i]+" ");
 		}
 
-		
 
 
 
